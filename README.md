@@ -12,3 +12,5 @@ This project is separated into five main processes:
 4 - Calculation of interacting susceptibility (Interacting Directory); 
 
 5 - Calculation of the gap function and pairing strength (Gamma Directory).
+
+Codes written in Fortran90 and Python + Jupyter Notebook.
